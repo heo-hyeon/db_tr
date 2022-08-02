@@ -339,7 +339,6 @@ INSERT INTO member (
 	, "광진구"
     , "요리"
 )
-;
 
 SELECT * FROM member
 ;
